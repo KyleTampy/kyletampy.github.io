@@ -1,0 +1,36 @@
+body {
+	font-family: Calibri;
+	background-image: radial-gradient(DodgerBlue, MediumSeaGreen);
+}
+
+p {
+	font-family: Book Antiqua;
+}
+ul { 
+	list-style-type: circle;
+	list-style-position: outside; 
+} 
+ol {
+	list-style-position: outside;
+}
+
+table, tr, td {
+  margin: auto;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+td {
+  border: 1px solid black;
+  padding: 15px;
+}
+
+div.center {
+  text-align: center;
+  margin: auto;
+}
+
+
+
